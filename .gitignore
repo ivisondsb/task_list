@@ -1,0 +1,26 @@
+# Diretórios de build e cache
+.gradle/
+build/
+
+# Arquivos de configuração locais
+local.properties
+.idea/
+*.iml
+
+# Logs e outros arquivos temporários
+*.log
+
+# Configuração do IntelliJ/Android Studio
+/.idea/
+*.ipr
+*.iws
+/.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Excluir APKs e artefatos de build
+*.apk
+*.ap_
+*.aab

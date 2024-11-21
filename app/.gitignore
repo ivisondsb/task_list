@@ -1,0 +1,10 @@
+# Diretórios de build
+build/
+
+# Arquivos intermediários do Kotlin e Java
+*.class
+*.kotlin_metadata
+
+# Artefatos do Android
+*.apk
+*.ap_
